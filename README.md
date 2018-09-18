@@ -5,10 +5,3 @@
 An image gallery built with redux + saga
 
 
-# Starter
-
-After cloning, checkout the `starter` branch
-
-```bash
-git checkout starter
-```

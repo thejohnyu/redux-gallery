@@ -19,14 +19,6 @@ jobs:
           paths:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
-        
-      - run:
-          name: test
-          command: echo "no tests"
-
-      - run:
-          name: test
-          command: echo "no tests"
 
       - run:
           name: build
